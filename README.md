@@ -1,22 +1,40 @@
 # 👋 Hi, I'm Himanshu Kudesiya!
 
-**Graduate in Computer Science and Engineering | C, C++, SQL and Python Enthusiast | Seeking Opportunities in the Tech Industry**
+### Graduate in Computer Science and Engineering | Data Analyst | C, C++, SQL and Python Enthusiast | Seeking Opportunities in the Tech Industry
 
 ---
 
 ### 👨‍🎓 About Me
 I recently graduated with a **Bachelor of Engineering in Computer Science** from **Samrat Ashok Technological Institute**, where I achieved a CGPA of 7.88. With a strong foundation in **programming**, **data structures**, and **software development**, I am passionate about leveraging technology to solve real-world problems. I thrive in fast-paced, dynamic environments, consistently seeking to improve my skills and tackle new challenges. I am eager to contribute to innovative projects, collaborate with like-minded professionals, and stay at the forefront of technological advancements. Always motivated to learn and grow, I’m ready to make an impact in the tech world.
 
+--- 
+
+### 🎓 Education
+- **[Bachelor of Engineering in Computer Science](https://drive.google.com/file/d/1dvEcLc_PVc0Sm4Rnk4XQB4qlFaGNwoK5/view)**
+  - **Institution**: Samrat Ashok Technological Institute, Vidisha, India
+  - **CGPA**: 7.88/10
+  - **Duration**: Nov 2020 – Jun 2024
+
+- **[Higher Secondary Education](https://drive.google.com/file/d/1mOG_18G4lX7rcn3PzbsrnRpjNGYoYiv6/view)**
+  - **School**: The Shanti Niketan Higher Secondary School
+  - **Percentage**: 75.2%
+  - **Duration**: 2019 – 2020
+
+- **[Senior Secondary Education](https://drive.google.com/file/d/1lrhihdHx1aFz8xwlm757_APqig3x_5nu/view)**
+  - **School**: Trinity Convent Senior Secondary School
+  - **Percentage**: 74.2%
+  - **Duration**: 2017 – 2018
+
 ---
 
 ### 💼 Skills & Tools
-- **Programming Languages:**
+- **Programming Languages:**  
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
-- **Softawre and Tools:**
+- **Software and Tools:**  
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](#)
@@ -68,8 +86,10 @@ Here are some key projects showcasing my technical skills and project-based lear
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Himanshu Kudesiya](https://www.linkedin.com/in/himanshu-kudesiya)
-- **Email**: [himanshu.kudesiya@gmail.com](mailto:himanshu.kudesiya@gmail.com)
+<a href="mailto:himanshu.kudesiya@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" margin="1%"/></a>
+<a href="https://www.linkedin.com/in/himanshu-kudesiya"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" margin="1%"/></a>
+<a href="https://www.instagram.com/ashu_kudesiya/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" margin="1%" /></a>
+
 
 I'm open to collaboration and always interested in learning about new technologies and ideas. Feel free to reach out!
 
