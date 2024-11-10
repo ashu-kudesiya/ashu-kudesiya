@@ -92,6 +92,7 @@ Here are some key projects showcasing my technical skills and project-based lear
 
 
 I'm open to collaboration and always interested in learning about new technologies and ideas. Feel free to reach out!
+---
 
 ---
 
