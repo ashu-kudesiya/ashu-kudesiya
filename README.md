@@ -3,7 +3,6 @@
 ### Graduate in Computer Science and Engineering | Data Analyst | C, C++, SQL and Python Enthusiast | Seeking Opportunities in the Tech Industry
 
 ---
----
 
 ### 👨‍🎓 About Me
 I recently graduated with a **Bachelor of Engineering in Computer Science** from **Samrat Ashok Technological Institute**, where I achieved a CGPA of 7.88. With a strong foundation in **programming**, **data structures**, and **software development**, I am passionate about leveraging technology to solve real-world problems. I am eager to contribute to innovative projects, collaborate with like-minded professionals, and stay at the forefront of technological advancements. Always motivated to learn and grow.
