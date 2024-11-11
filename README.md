@@ -2,7 +2,7 @@
 
 ### Graduate in Computer Science and Engineering | Data Analyst | C, C++, SQL and Python Enthusiast | Seeking Opportunities in the Tech Industry
 
-1234567891011
+12345678910
 
 ---
 
