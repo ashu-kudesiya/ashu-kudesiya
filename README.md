@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Himanshu Kudesiya!
-1
+
 ### Graduate in Computer Science and Engineering | Data Analyst | C, C++, SQL and Python Enthusiast | Seeking Opportunities in the Tech Industry
 
 ---
