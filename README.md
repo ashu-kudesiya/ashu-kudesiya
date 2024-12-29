@@ -86,10 +86,11 @@ This portfolio highlights a diverse range of projects focused on data analysis, 
 ---
 
 ### 🏆 Extracurriculars
-- Winner of **Valorant Tournament** and **PUBG Tournament** organized by College Club FLUX.
-- Freelance Video Editor and Content Creator for multiple platforms.
-- Administrator and Moderator of my college’s Discord server "ENCORE".
-- Freelance video editing and content creation.
+- **Administrator and Moderator** of **College Community Club** Discord Server **"ENCORE"**.
+- Winner of the **Valorant Tournament** held by **College Club FLUX**.
+- **2nd Runner-up** of **Player Unknown’s Battlegrounds** held by **College Club FLUX**.
+- **1st Runner-up** of **Valorant LAN Tournament** held by **ZORO Cafe**.
+- Freelance **Video Editor** and **Content Creator** for multiple platforms.
 
 ---
 
