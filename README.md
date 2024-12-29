@@ -45,28 +45,25 @@ I recently graduated with a **Bachelor of Engineering in Computer Science** from
 ---
 
 ### 📂 Projects
-Here are some key projects showcasing my technical skills and project-based learning:
+This portfolio highlights a diverse range of projects focused on data analysis, automation, and visualization. These projects demonstrate technical proficiency, creativity, and the ability to derive actionable insights from complex datasets.
 
-Individual Project
-•Developed an interactive Power BI dashboard using Blinkit sales data from Kaggle, visualizing trends in customer
-behavior, order types, and revenue performance.
-•Performed data cleaning and transformation to ensure accuracy and delivered actionable insights on time-slot-based
-revenue trends to support strategic decision-making.
-•Tech: Power BI, Excel, Data Analysis Expressions (DAX).
+1. **[Amazon Sales Insights Dashboard](https://github.com/ashu-kudesiya/Amazon-Sales-Analysis)** 📦📊
+   - Developed an interactive dashboard to analyze and visualize sales trends, customer behavior, and product performance using Python and advanced visualization techniques.
+   - **Tech**: Python, pandas, matplotlib, seaborn, Jupyter Notebook.
 
-1. **[Blinkit Sales Insights Dashboard](https://github.com/ashu-kudesiya/Blinkit-Sales-Insights-Dashboard)** 🛒📈
+2. **[Blinkit Sales Insights Dashboard](https://github.com/ashu-kudesiya/Blinkit-Sales-Insights-Dashboard)** 🛒📈
    - Developed a Power BI dashboard to analyze and visualize key metrics and trends in a superstore's sales performance.
    - **Tech**: Power BI, Excel, Data Analysis Expressions (DAX).
 
-2. **[Gesture Control Robotic Car](https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car)** 🚗🖐🏻
+3. **[Gesture Control Robotic Car](https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car)** 🚗🖐🏻
    - Developed a robotic car that can be controlled using hand gestures, leveraging computer vision and machine learning.
    - **Tech**: Python, OpenCV, TensorFlow, Arduino Libraries, Mediapipe.
 
-3. **[Gesture Volume Control](https://github.com/ashu-kudesiya/Gesture_Volume_Control)** 🖐🏻🔊
+4. **[Gesture Volume Control](https://github.com/ashu-kudesiya/Gesture_Volume_Control)** 🖐🏻🔊
    - Created a system for hands-free audio volume control through hand gestures detected by sensors.
    - **Tech**: Python, CV2, Mediapipe, Numpy.
 
-4. **[Analyzing Historical Stock/Revenue Data](https://github.com/ashu-kudesiya/Analyzing-Historical-Stock-Revenue-Data)** 📈📉
+5. **[Analyzing Historical Stock/Revenue Data](https://github.com/ashu-kudesiya/Analyzing-Historical-Stock-Revenue-Data)** 📈📉
    - Analyzed stock and revenue data using Python, web scraping, and data visualization, and created a dashboard for insights.
    - **Tech**: Python, Jupyter Notebook, Pandas, Beautiful Soup, yfinance.
 
