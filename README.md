@@ -48,7 +48,7 @@ I recently graduated with a **Bachelor of Engineering in Computer Science** from
 This portfolio highlights a diverse range of projects focused on data analysis, automation, and visualization. These projects demonstrate technical proficiency, creativity, and the ability to derive actionable insights from complex datasets.
 
 1. **[Amazon Sales Insights Dashboard](https://github.com/ashu-kudesiya/Amazon-Sales-Analysis)** 📦📊
-   - Developed an interactive dashboard to analyze and visualize sales trends, customer behavior, and product performance using Python and advanced visualization techniques.
+   - Created Python visualizations for sales trends, customer behavior and product performance.
    - **Tech**: Python, pandas, matplotlib, seaborn, Jupyter Notebook.
 
 2. **[Blinkit Sales Insights Dashboard](https://github.com/ashu-kudesiya/Blinkit-Sales-Insights-Dashboard)** 🛒📈
